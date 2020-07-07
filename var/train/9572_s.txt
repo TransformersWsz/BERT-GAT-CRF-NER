@@ -1,0 +1,1 @@
+M2	money	supply	(	bln	taka	)	456.8	439.9	422.1

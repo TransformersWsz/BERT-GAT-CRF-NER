@@ -1,0 +1,1 @@
+One	feature	of	the	Java	language	is	that	small	software	programmes	,	known	as	"	applets	"	because	they	are	small	applications	,	can	be	downloaded	from	the	server	computers	at	the	centre	of	networks	onto	individual	computers	for	use	.

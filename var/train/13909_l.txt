@@ -1,0 +1,1 @@
+B-LOC	I-LOC	O	B-PER	O	O	O	B-PER	O	O

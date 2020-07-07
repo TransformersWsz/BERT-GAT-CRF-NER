@@ -1,0 +1,1 @@
+Net	loss	1,967	loss	841

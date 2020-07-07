@@ -1,0 +1,1 @@
+M1	money	supply	(	bln	taka	)	144.5	139.3	131.7

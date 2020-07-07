@@ -1,0 +1,1 @@
+NY	Dow	close	London	opening	LME	close

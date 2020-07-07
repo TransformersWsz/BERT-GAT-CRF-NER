@@ -1,0 +1,1 @@
+Shr	loss	$	0.22	loss	$	0.07

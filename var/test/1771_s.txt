@@ -1,0 +1,1 @@
+CBOT	grain	/	oilseed	receipts	and	shipments	.

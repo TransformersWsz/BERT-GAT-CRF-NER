@@ -1,0 +1,1 @@
+TYPE	straight	bond	ISSUE	NO	13	AMT	10	bln	yen

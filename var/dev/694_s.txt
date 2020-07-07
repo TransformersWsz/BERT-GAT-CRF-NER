@@ -1,0 +1,1 @@
+NYMEX	heating	oil	near	session	lows	in	pre-close	.

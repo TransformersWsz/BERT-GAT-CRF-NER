@@ -1,0 +1,1 @@
+precedence	is	given	to	the	one	with	most	wins	.

@@ -1,0 +1,1 @@
+283	Tom	Lehman	72	69	74	68	,	Fred	Funk	72	70	73	68	,	Mark
